@@ -5,16 +5,8 @@ const HomePage = () => {
   return (
     <>
       <MetaTags title="Home" description="Home page" />
-
-      <h1>  doo do do! hm?</h1>
-      <h2>Hey buddies! check out this cool story!</h2>
-      <p>
-        Find me in <code>./web/src/pages/HomePage/HomePage.js</code>
-      </p>
-      <p>
-        My default route is named <code>home</code>, link to me with `
-        <Link to={routes.home()}>Home</Link>`
-      </p>
+      asdfasdfasdfasdf
+      
     </>
   )
 }
